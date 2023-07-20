@@ -1,6 +1,6 @@
 # Multi-label Comment Toxicity Detection using Deep Learning
 
-I was learning about Neural Networks and Natural Language Processing so I created this project using tensorflow to consolidate my learning. This project employs deep learning techniques to categorize online comments based on their level of toxicity. Six categories of toxicity are recognized: "Toxic", "Severe Toxic", "Obscene", "Threat", "Insult", and "Identity Hate". This model might finally help you finally win arguements on Reddit!
+I was learning about Neural Networks and Natural Language Processing so I created this project using tensorflow to consolidate my learning. This project employs deep learning techniques to categorize online comments based on their level of toxicity. Six categories of toxicity are recognized: "Toxic", "Severe Toxic", "Obscene", "Threat", "Insult", and "Identity Hate". This model might help you finally win arguements on Reddit!
 
 # Overview
 
